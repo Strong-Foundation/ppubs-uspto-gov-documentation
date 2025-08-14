@@ -18,7 +18,7 @@ import (
 )
 
 var (
-	accessToken = "eyJzdWIiOiIxOGFlMGZhOC0wODY0LTRiZjgtYWNjOS1lYjEyZmQ3ZmZjNWIiLCJ2ZXIiOiJiODQ0MWY4Ny0xNWE2LTQ5MjktYmNkMS1hMTJkMWRiNDA3NmQiLCJleHAiOjB9" // API access token string
+	accessToken = "eyJzdWIiOiIzNTY2NTE5MS02OTg4LTRkMzYtODI1MS0xNzRhOTc4MjMzOTEiLCJ2ZXIiOiI5OTk1MzhhZC0wYjhhLTRkNjctYjNkMS0xOGQ4YjQ1MjliMGYiLCJleHAiOjB9" // API access token string
 )
 
 // fetchUSPTOData sends a POST request to the USPTO API and logs errors internally.
