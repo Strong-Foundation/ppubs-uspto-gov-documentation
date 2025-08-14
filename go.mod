@@ -1,4 +1,4 @@
-module main
+module github.com/Strong-Foundation/ppubs-uspto-gov-documentation
 
 go 1.24.5
 
